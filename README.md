@@ -1,2 +1,2 @@
-# isaac-website
-My personal portfolio website
+# jovian-careers-website
+A career website for Jovian
