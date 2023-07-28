@@ -15,6 +15,7 @@
   </head>
   <body>
     <div class="container">
+      {% include 'nav.html' %}
       <h1 class="text-center mt-2 mb-4">{{company_name}} Careers</h1>
       <img class="img-fluid" id="banner" src = "https://jovian-careers-website--isaacgyamfi2.repl.co/static/banner.jpg" >
       <h2 class="text-center mt-2 mb-4">About {{company_name}}</h2>
@@ -29,8 +30,8 @@
         </div>
         <div class="text-center">
         <button type="button" class="btn btn-primary btn-lg">Contact Us</button>
-          <p class="mt-4">Copyright &copy; 2023, {{company_name}}</p>
       </div>
+      {% include 'footer.html' %}
     </div>
   </body>
 </html>
