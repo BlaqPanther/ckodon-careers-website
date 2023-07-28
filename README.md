@@ -1,2 +1,2 @@
 # ckodon-careers-website
-A career website for Jovian
+A career website for Ckodon
